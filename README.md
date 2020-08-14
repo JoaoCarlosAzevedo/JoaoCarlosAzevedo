@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Carlos Azevedo</h1>
-<h3 align="center">A computer scientist from Brazil in a journey to become a master in mobile dev with Flutter and fullstack with NodeJS and React framework</h3>
+<h3 align="center">A computer scientist from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaocarlosazevedo" alt="joaocarlosazevedo" /> </p>
 

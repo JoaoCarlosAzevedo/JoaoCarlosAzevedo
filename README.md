@@ -32,7 +32,7 @@
 
 ### :zap: Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosazevedo&layout=compact&theme=dark" alt="João Carlos's Github Stats" >
-<img src="https://github-readme-stats.vercel.app/api?username=joaocarlosazevedo&show_icons=true&theme=dark" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=joaocarlosazevedo&show_icons=true&theme=dark" alt="Sumanth's Top Languages"  width="43%" >
 
  ### 🤝🏻 &nbsp;Social Media
 <p align="center">

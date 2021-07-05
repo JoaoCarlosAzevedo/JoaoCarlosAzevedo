@@ -6,11 +6,12 @@
 
 ### 📄 About me
 - 🎓 Computer Scientist
-- 🗺️ Mato Grosso do Sul, Brazil 🇧🇷
+- 🗺️ I'm from Mato Grosso do Sul, Brazil 🇧🇷
 - 💼 Currently working as System Analyst from ERP Protheus by TOTVS
 - ❤️ Passionate about programming and technology 
 - 💙 Flutter enthusiast 
 - 🌱 Learning Full-Stack | Cross-Platform Mobile App 
+- 💻 Clean coder aspirant
 - 🔭 Looking for a oportunity to become a full time developer 🔥
 
 ### 🛠  Tech Stack

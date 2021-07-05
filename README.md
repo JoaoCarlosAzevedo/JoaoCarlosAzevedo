@@ -26,8 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
+![ADVPL](https://img.shields.io/static/v1?label=&message=ADVPL&&color=333333)&nbsp;
+![TL++](https://img.shields.io/static/v1?label=&message=TL%2B%2B&&color=333333)&nbsp;
 
 ### :zap: Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosazevedo&layout=compact&theme=dark" alt="João Carlos's Github Stats" >
